@@ -1,531 +1,489 @@
 {
   "country": "japan",
-  "generated_at": "2026-06-14T00:16:40Z",
-  "story_count": 75,
+  "generated_at": "2026-06-21T00:16:41Z",
+  "story_count": 69,
   "stories": [
     {
-      "title": "Prime Minister Takaichi arrives in the UK for summit meeting and coordinates with presentation of economic security outcome document",
+      "title": "[Details] Russia military invasion of Ukraine (movement on June 20th)",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149251000.html",
-      "published_date": "2026-06-13T19:35:00Z",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015132891000.html",
+      "published_date": "2026-06-20T10:28:47Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Their Majesties the Emperor and Empress arrive on official visit to the Netherlands",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149271000.html",
-      "published_date": "2026-06-13T18:31:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Takaichi vows ‘persistent diplomatic efforts’ to help secure Strait of Hormuz",
+      "title": "China’s key minerals exports to Japan stay at low levels in May",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/13/japan/takaichi-diplomatic-efforts-hormuz/",
-      "published_date": "2026-06-13T06:07:00Z",
+      "url": "https://www.japantimes.co.jp/business/2026/06/20/china-japan-mineral-exports-low/",
+      "published_date": "2026-06-20T07:23:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Prime Minister Takaichi to propose “Joint stockpile cooperation concept” for important minerals at G7 summit",
+      "title": "One remaining Japanese-related vessel with Japanese crew on board remains outside the Persian Gulf",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015148781000.html",
-      "published_date": "2026-06-12T20:32:13Z",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015154561000.html",
+      "published_date": "2026-06-19T12:18:52Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Opposition parties rebel against Meiji Restoration co-representative Fujita's comments regarding revisions to the Imperial House Law",
+      "title": "Review of the retrial system: A bill to revise the Criminal Procedure Law begins deliberation in the House of Councilors",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015148921000.html",
-      "published_date": "2026-06-12T15:48:58Z",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015154481000.html",
+      "published_date": "2026-06-19T08:45:07Z",
       "category": "Diplomacy"
     },
     {
-      "title": "7-Eleven Japan joins the craze for Korean Gamja Cheese Balls",
+      "title": "Japan-owned vessel passed through Strait of Hormuz on Friday",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/06/19/vessel-pass-hormuz/",
+      "published_date": "2026-06-19T08:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Asahi to launch Calpis drink in India",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/06/19/companies/calpis-india/",
+      "published_date": "2026-06-19T01:13:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "[Details] Russia military invasion of Ukraine (movement on June 19)",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015129001000.html",
+      "published_date": "2026-06-18T22:01:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese Ministry of Foreign Affairs criticizes Prime Minister Takaichi's remarks at the G7 meeting",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015153911000.html",
+      "published_date": "2026-06-18T20:21:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taiwanese president calls for deeper cooperation with Japan",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/06/18/japan/taiwan-president-japan-ties/",
+      "published_date": "2026-06-18T10:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "[Details] Russia military invasion of Ukraine (movement on June 18)",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015128991000.html",
+      "published_date": "2026-06-18T10:29:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 Summit Results document announced on important minerals, oil stockpiling cooperation, etc.",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153011000.html",
+      "published_date": "2026-06-17T19:39:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japan-Oman Foreign Ministers Telephone Talk Communication for safe navigation in the Strait of Hormuz",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152721000.html",
+      "published_date": "2026-06-17T13:45:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Pacific Island Summit” to be held in Yokohama in summer 2027 Government",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152621000.html",
+      "published_date": "2026-06-17T09:27:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "[Details] Russia military invasion of Ukraine (movement on June 17)",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015128981000.html",
+      "published_date": "2026-06-17T06:33:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“No to AI and data centers” backlash spreads in America",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015151261000.html",
+      "published_date": "2026-06-17T03:40:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Coordination of outcome documents such as G7 cooperation on stockpiling important minerals based on Japan’s proposal",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152121000.html",
+      "published_date": "2026-06-17T01:49:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister Takaichi “Instructs to provide accurate information, etc. Be careful of earthquakes of similar magnitude”",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260616/k10015151841000.html",
+      "published_date": "2026-06-16T12:08:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister Takaichi meets with Mr. Trump and exchanges views on the situation in the Middle East at the French G7 venue",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260616/k10015151581000.html",
+      "published_date": "2026-06-16T12:07:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "[Updated from time to time] Russia military invasion of Ukraine (movement on June 16)",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260616/k10015128971000.html",
+      "published_date": "2026-06-16T08:23:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister Takaichi attends the G7 Summit: “I hope the final U.S.-Iran agreement will be realized as soon as possible”",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260616/k10015150941000.html",
+      "published_date": "2026-06-16T01:51:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "We invent ice slurry somen to combat the extreme Japanese summer heat【SoraKitchen】",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/06/13/7-eleven-japan-joins-the-craze-for-korean-gamja-cheese-balls/",
-      "published_date": "2026-06-12T15:00:41Z",
-      "category": "Diplomacy"
+      "url": "https://soranews24.com/2026/06/21/we-invent-ice-slurry-somen-to-combat-the-extreme-japanese-summer-heat%e3%80%90sorakitchen%e3%80%91/",
+      "published_date": "2026-06-20T23:30:36Z",
+      "category": "Military"
     },
     {
-      "title": "Foreign Minister Motegi meets Thai Foreign Minister and agrees on cooperation in areas such as energy",
+      "title": "Japan's \"maritime national power\" is being questioned during the Strait of Hormuz crisis: Interview with a professor at the U.S. National Defense University",
+      "source": "Asahi Shimbun",
+      "url": "http://www.asahi.com/articles/ASV6M20VDV6MUHBI00GM.html?ref=rss",
+      "published_date": "2026-06-20T22:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Setsuko Thurlow gives lecture in Austria Concerns over growing nuclear threat",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148831000.html",
-      "published_date": "2026-06-12T11:29:06Z",
-      "category": "Diplomacy"
+      "url": "http://www3.nhk.or.jp/news/html/20260621/k10015155521000.html",
+      "published_date": "2026-06-20T20:16:59Z",
+      "category": "Military"
     },
     {
-      "title": "[Updated from time to time] Russia military invasion of Ukraine (movement on June 12)",
+      "title": "Nippon Hidankyo holds general meeting to discuss organization survival, plans to reach conclusion next year",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015128931000.html",
-      "published_date": "2026-06-12T09:21:26Z",
-      "category": "Diplomacy"
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153631000.html",
+      "published_date": "2026-06-18T08:21:20Z",
+      "category": "Military"
     },
     {
-      "title": "Liberal Democratic Party Task Force urges government to “pay attention to agriculture” in South American EPA negotiations",
+      "title": "Taiwanese President Lai Ching-toku hopes for prompt approval of arms sales by the US",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148541000.html",
-      "published_date": "2026-06-12T08:12:31Z",
-      "category": "Diplomacy"
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153581000.html",
+      "published_date": "2026-06-18T08:04:55Z",
+      "category": "Military"
     },
     {
-      "title": "The name of the Japan-China Parliamentary Meeting was changed to the Japan-Taiwan Friendship Parliamentary League.",
+      "title": "U.S. Indo-Pacific Command changed name to \"Pacific Command\"",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015147761000.html",
-      "published_date": "2026-06-11T12:08:18Z",
-      "category": "Diplomacy"
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153471000.html",
+      "published_date": "2026-06-18T05:46:34Z",
+      "category": "Military"
     },
     {
-      "title": "[Details] Russia military invasion of Ukraine (movement on June 11)",
+      "title": "Nihon Hidankyo general meeting confirms that the horror of the atomic bomb is not fully known and will “speak out”",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015128921000.html",
-      "published_date": "2026-06-11T07:56:29Z",
-      "category": "Diplomacy"
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152601000.html",
+      "published_date": "2026-06-17T08:37:44Z",
+      "category": "Military"
     },
     {
-      "title": "Video report: “The crisis of global governance and Japan’s multilateral diplomacy” (Ryo Nakamura, Deputy Director-General for Global Issues, Ministry of Foreign Affairs)",
+      "title": "“Japan’s security strategy in anticipation of the revision of the three security documents” (Atsuko Higashino, Professor, Faculty of Humanities and Social Sciences, University of Tsukuba)",
       "source": "Foreign Press Center Japan",
-      "url": "https://fpcj.jp/worldnews/briefings/p=127956/",
-      "published_date": "2026-06-11T06:25:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Burger King Japan offering all-you-can-eat quad-burgers, whoever eats the most gets more in December",
-      "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/06/11/burger-king-japan-offering-all-you-can-eat-quad-burgers-whoever-eats-the-most-gets-more-in-december/",
-      "published_date": "2026-06-10T15:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "[Details] Russia military invasion of Ukraine (movement on June 10)",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015128911000.html",
-      "published_date": "2026-06-10T05:33:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Malaysian Prime Minister hopes to cooperate with Japanese companies in rare earth processing",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145511000.html",
-      "published_date": "2026-06-09T20:34:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Coordination of joint statement on stable supply of LNG, etc. Today Japan-Malaysia summit meeting",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145521000.html",
-      "published_date": "2026-06-09T20:22:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "[Details] Russia military invasion of Ukraine (movement on June 9th)",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015128901000.html",
-      "published_date": "2026-06-09T05:53:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "[Details] Russia military invasion of Ukraine (movement on June 8)",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015128891000.html",
-      "published_date": "2026-06-08T10:43:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Defense Minister Koizumi visits Indonesia to discuss export of used MSDF destroyer",
-      "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6D3FLMV6DUTFK005M.html?ref=rss",
-      "published_date": "2026-06-13T07:57:11Z",
+      "url": "https://fpcj.jp/assistance/briefings_notice/p=128065/",
+      "published_date": "2026-06-16T03:50:29Z",
       "category": "Military"
     },
     {
-      "title": "New Japanese overnight train coming to connect Tokyo with Tohoku in sleep-travel style",
-      "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/06/13/new-japanese-overnight-train-coming-to-connect-tokyo-with-tohoku-in-sleep-travel-style/",
-      "published_date": "2026-06-12T17:30:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Defense Minister Koizumi to discuss destroyer relocation with Indonesian president and others today",
+      "title": "Dutch Defense Minister “considering cooperation in clearing mines in the Strait of Hormuz”",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148161000.html",
-      "published_date": "2026-06-12T02:14:40Z",
+      "url": "http://www3.nhk.or.jp/news/html/20260615/k10015150521000.html",
+      "published_date": "2026-06-15T10:23:10Z",
       "category": "Military"
     },
     {
-      "title": "Okinawa U.S. soldier sent to prosecutors on suspicion of sexual assault will not be prosecuted",
+      "title": "Nagoya Defendant pleads guilty to murdering two women, defense claims insanity",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015147731000.html",
-      "published_date": "2026-06-11T12:02:58Z",
+      "url": "http://www3.nhk.or.jp/news/html/20260615/k10015150421000.html",
+      "published_date": "2026-06-15T08:25:43Z",
       "category": "Military"
     },
     {
-      "title": "Japanese companies request China to make export regulations for rare earths more transparent",
+      "title": "Agreed to increase settlement fee by 10,000 yen per year for certified Kanemi Yusho patients",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015147701000.html",
-      "published_date": "2026-06-11T11:56:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Manga on North Korean abductions published amid little progress over issue",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/11/japan/society/north-korea-abductions-manga/",
-      "published_date": "2026-06-11T04:28:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Prime Minister Takaichi and Prime Minister of Laos agree to advance cooperation in energy and resources",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146381000.html",
-      "published_date": "2026-06-10T13:03:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Spraying at commercial facility in Nagoya caught on security camera",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015145281000.html",
-      "published_date": "2026-06-09T11:31:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "South Korean President takes a cautious stance at present regarding the need to conclude Japan-Korea “ACSA”",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144311000.html",
-      "published_date": "2026-06-08T09:31:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Maritime Self-Defense Force and South Korean Navy conduct search and rescue training off the coast of Nagasaki Prefecture for the first time in about 9 years",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144361000.html",
-      "published_date": "2026-06-08T09:04:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ground Self-Defense Force's surface-to-ship missiles to be deployed for the first time to Minamitorishima; launchers and other equipment removed",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144211000.html",
-      "published_date": "2026-06-08T05:46:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two of Kyoto’s famous temples tackle streetside trash with solar-powered trash cans",
-      "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/06/13/two-of-kyotos-famous-temples-tackle-streetside-trash-with-solar-powered-trash-cans/",
-      "published_date": "2026-06-13T01:00:47Z",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155381000.html",
+      "published_date": "2026-06-20T08:54:53Z",
       "category": "Energy"
     },
     {
-      "title": "Japan’s July oil imports to return to pre-Iran war level, Takaichi says",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/11/japan/japan-oil-stock-rebound/",
-      "published_date": "2026-06-11T11:11:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Prime Minister Takaichi meets with Malaysian Prime Minister and cooperates on stable supply of LNG, etc.",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146001000.html",
-      "published_date": "2026-06-10T09:45:12Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Japan-UK coordinates to release outcome document on economic security, strengthens cooperation on offshore wind power, etc.",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144611000.html",
-      "published_date": "2026-06-08T20:16:03Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Reprocessing plant: Although explanations have been almost completed during the inspection, there is no expectation of completion by the target date.",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144531000.html",
-      "published_date": "2026-06-08T12:54:23Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Kyushu Electric Power Transmission and Distribution lost recording media containing over 10 million pieces of personal information",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144391000.html",
-      "published_date": "2026-06-08T09:55:58Z",
-      "category": "Energy"
-    },
-    {
-      "title": "A man was hit on the head and robbed of 5 million yen in Osaka while buying a car.",
-      "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6F5TCXV6FOXIE024M.html?ref=rss",
-      "published_date": "2026-06-13T17:39:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Subway cars go to Egypt, loaded onto ship at Kobe Port for export",
-      "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6F36J9V6FULFA005M.html?ref=rss",
-      "published_date": "2026-06-13T10:15:55Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Japan and Canada can do more to accelerate AI adoption, expert says",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/13/japan/canada-japan-ai-interview/",
-      "published_date": "2026-06-13T08:08:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Japan releases tool to visualize local government finances",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/13/japan/japan-finance-visualizer-tool/",
-      "published_date": "2026-06-13T07:46:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Japan startup tests catheter injection of iPS heart muscle cells",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/13/japan/science-health/ips-heart-muscle-injection-startup/",
-      "published_date": "2026-06-13T06:26:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "102.5 billion yen in coronavirus grants, prefectures cut back on spending and turned into surplus",
-      "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6D1355V6DUTIL02VM.html?ref=rss",
-      "published_date": "2026-06-13T05:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“SpaceX” goes public with approximately 12 trillion yen in funding, the largest ever",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
-      "published_date": "2026-06-13T04:39:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Prefectures budget at least 5.5 billion yen to accept foreign human resources",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015148581000.html",
-      "published_date": "2026-06-12T20:24:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Japan-China friendship group postpones delegation's visit to China due to death of chairman Yohei Kono",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148871000.html",
-      "published_date": "2026-06-12T11:45:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kioxia becomes Japan’s most valuable firm as AI mania goes on",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/06/12/companies/kioxia-ai-valuable-firm/",
-      "published_date": "2026-06-12T07:43:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ministry of Land, Infrastructure, Transport and Tourism issues strict warning to Japan Airlines due to cabin crew drinking",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148531000.html",
-      "published_date": "2026-06-12T07:34:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Amendment bill to the Personal Information Protection Act enters deliberation in the House of Councilors; Citizens ``Delete names, etc.''",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148441000.html",
-      "published_date": "2026-06-12T06:40:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Consumption tax cut on groceries could do more harm than good",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/06/12/economy/takaichi-tax-cut-fiscal-concerns/",
-      "published_date": "2026-06-12T06:36:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Locked out of IPO, Asia investors find new ways to bet on SpaceX",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/06/12/markets/asia-investors-spacex-ipo/",
-      "published_date": "2026-06-12T01:21:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“Meeting the diverse needs” of people aged 65 and over who are highly motivated to work “Aging Society White Paper”",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148101000.html",
-      "published_date": "2026-06-12T00:37:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "East Japan Railway announces plans to abolish magnetic-strip tickets",
+      "title": "7-Eleven Japan debuts new black-and-white rice ball packaging…but is it because of a naphtha shortage?",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/06/11/east-japan-railway-announces-plans-to-abolish-magnetic-strip-tickets/",
-      "published_date": "2026-06-11T13:00:36Z",
-      "category": "Economy"
+      "url": "https://soranews24.com/2026/06/19/7-eleven-japan-debuts-new-black-and-white-rice-ball-packaging-but-is-it-because-of-a-naphtha-shortage/",
+      "published_date": "2026-06-18T15:00:13Z",
+      "category": "Energy"
     },
     {
-      "title": "Consumer Affairs Agency orders Geo Store to take action for the first time in Japan over repeated \"limited time\" measures",
+      "title": "What will happen to the Japanese economy? US and Iran sign memorandum [Details]",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015147771000.html",
-      "published_date": "2026-06-11T12:13:54Z",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153671000.html",
+      "published_date": "2026-06-18T10:42:06Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Arrested on suspicion of defrauding a medical corporation of 350 million yen over business transfer. Metropolitan Police Department",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015154101000.html",
+      "published_date": "2026-06-19T08:52:32Z",
       "category": "Economy"
     },
     {
-      "title": "Rapidus to cooperate with British and Italian institutions",
+      "title": "Yen nears four-decade low, and Katayama issues warning",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/06/11/companies/rapidus-tieup/",
-      "published_date": "2026-06-11T09:43:00Z",
+      "url": "https://www.japantimes.co.jp/business/2026/06/19/markets/yen-market-june-19-2026/",
+      "published_date": "2026-06-19T08:49:00Z",
       "category": "Economy"
     },
     {
-      "title": "KADOKAWA Recommendation for violation of Freelance Protection Act Japan Fair Trade Commission",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015147351000.html",
-      "published_date": "2026-06-11T08:11:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of Japan rate hike a ‘done deal’ given inflation and weak yen",
+      "title": "Japan’s inflation holds steady as subsidies restrain energy",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/06/11/economy/boj-preview-june-meeting-2026/",
-      "published_date": "2026-06-11T06:13:00Z",
+      "url": "https://www.japantimes.co.jp/business/2026/06/19/economy/japan-inflation-holds-steady/",
+      "published_date": "2026-06-19T01:45:00Z",
       "category": "Economy"
     },
     {
-      "title": "A group is launched to request legislation regarding the handling of DNA type information, discussion among lawsuit plaintiffs, Nagoya",
-      "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6F3TRWV6FOIPE00QM.html?ref=rss",
-      "published_date": "2026-06-14T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup: Japan final preparations: Coach Moriyasu: ``We want to get ahead and win''",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149481000.html",
-      "published_date": "2026-06-13T23:55:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tokyo Metropolitan Police Department aims to erase its \"scary\" image with Japan's first public police academy tour",
-      "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6D32KLV6DUTIL01PM.html?ref=rss",
-      "published_date": "2026-06-13T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Tokyo cocktail institution sets its sights on Kyoto",
+      "title": "Japan’s push for corporate growth over value sets off skepticism",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/life/2026/06/14/food-drink/bar-trench-kyoto-tokyo-cocktails-absinthe-new-opening/",
-      "published_date": "2026-06-13T23:05:00Z",
-      "category": "Local Events"
+      "url": "https://www.japantimes.co.jp/business/2026/06/19/companies/japan-firms-long-term-growth-versus-profitability/",
+      "published_date": "2026-06-19T01:05:00Z",
+      "category": "Economy"
     },
     {
-      "title": "A breath of fresh air in Osaka's high school volleyball: Minoh Jiyu Gakuen will be opening this spring with top 8 first-year students",
-      "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6F2VSKV6FPTQP00LM.html?ref=rss",
-      "published_date": "2026-06-13T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Switzerland holds a referendum to set a population limit; some argue against it: ``Do we want to become Japan?''",
-      "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6B55S7V6BUHBI02KM.html?ref=rss",
-      "published_date": "2026-06-13T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soccer World Cup: Supporters arrive in Dallas before Japan's first match",
+      "title": "1st anniversary of Nippon Steel's acquisition of US Steel; Vice Chairman Mori: ``Growth is only possible overseas''",
       "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149511000.html",
-      "published_date": "2026-06-13T20:48:16Z",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015153821000.html",
+      "published_date": "2026-06-18T20:26:47Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Yen price temporarily drops to 161 yen to $1 for the first time in 1 year and 11 months due to expectations of Fed rate hike",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260619/k10015153951000.html",
+      "published_date": "2026-06-18T20:17:51Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tokuryu Is it mainly a 5-level role such as a case manager? Information can be bought and sold for 1 million yen",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153611000.html",
+      "published_date": "2026-06-18T11:11:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Company executives arrested for illegally allowing babysitters to enter the country from China",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153211000.html",
+      "published_date": "2026-06-18T11:08:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A special scam based in Cambodia: sending a “kakeko” for 1 million yen",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015153711000.html",
+      "published_date": "2026-06-18T09:21:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Many people applied to campaigns using their own programs; gift card fraud?",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260618/k10015152891000.html",
+      "published_date": "2026-06-18T03:38:10Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Arrested on suspicion of stealing electronic money under the guise of refunding instructions given in Chinese, Metropolitan Police Department",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152401000.html",
+      "published_date": "2026-06-17T10:45:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tokyo District Court orders compensation of over 1.3 billion yen to three construction companies over condominium slope issue",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152661000.html",
+      "published_date": "2026-06-17T10:08:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "New U.S. Federal Reserve Chairman George Warsh to announce results of first meeting, comments in focus",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152511000.html",
+      "published_date": "2026-06-17T08:18:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Two people arrested for allegedly laundering fraudulent funds through underground bank operation Metropolitan Police Department",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152371000.html",
+      "published_date": "2026-06-17T05:33:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A special scam based in Cambodia: Have you received 30% of the money you defrauded?",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260617/k10015152231000.html",
+      "published_date": "2026-06-17T03:30:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Approximately 180 million yen of donations from Red Feather Community Chest, etc. go unaccounted for in Hokkaido",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260615/k10015150551000.html",
+      "published_date": "2026-06-15T10:09:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Kaiseki’ fine dining with a side of classical poetry",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/life/2026/06/21/food-drink/kodaiji-wakuden-poetry-kaiseki-kyoto/",
+      "published_date": "2026-06-20T23:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Lawson transforms convenience store food with massive katsu burger and an insane curry bread",
+      "title": "Netherlands, who drew in the first match against Japan, wins with 5 points. Japan plays against Tunisia.",
+      "source": "Asahi Shimbun",
+      "url": "http://www.asahi.com/articles/ASV6N75X1V6NBQBQ076M.html?ref=rss",
+      "published_date": "2026-06-20T22:11:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup: Netherlands comfortably defeats Sweden in Group F, same as Japan",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260621/k10015155541000.html",
+      "published_date": "2026-06-20T22:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elementary school fire: Stove and circulator burnt in music preparation room",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260621/k10015155561000.html",
+      "published_date": "2026-06-20T20:23:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soccer World Cup Japan National Team today's match against Tunisia: Accuracy of coordination is key",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260621/k10015155571000.html",
+      "published_date": "2026-06-20T20:22:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japanese sweets brand creates new drinkable Cigare and we’re totally here for it",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/06/14/lawson-transforms-convenience-store-food-with-massive-katsu-burger-and-an-insane-curry-bread/",
-      "published_date": "2026-06-13T16:00:43Z",
+      "url": "https://soranews24.com/2026/06/21/japanese-sweets-brand-creates-new-drinkable-cigare-and-were-totally-here-for-it/",
+      "published_date": "2026-06-20T16:00:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Junior high school student dies after being swept away in Nagoya river",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149461000.html",
-      "published_date": "2026-06-13T15:59:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "``I couldn't see underwater.'' Junior high school student dies after being washed away by river, Nagoya",
+      "title": "``Someone has been stabbed'' from hospital; man may have been stabbed in Mitsuzawa Park, Yokohama",
       "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6F44NKV6FOIPE00ZM.html?ref=rss",
-      "published_date": "2026-06-13T14:45:00Z",
+      "url": "http://www.asahi.com/articles/ASV6N4WW9V6NULOB00GM.html?ref=rss",
+      "published_date": "2026-06-20T15:20:06Z",
       "category": "Local Events"
     },
     {
-      "title": "\"Japanese Grammy\" Mrs. Won \"Best Artist Award\" for 2nd consecutive year",
+      "title": "Man's dismembered body found in Kobe apartment freezer",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155511000.html",
+      "published_date": "2026-06-20T15:11:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rainy season begins in southern Tohoku and Hokuriku, including Niigata Prefecture, with heavy rain possible",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155191000.html",
+      "published_date": "2026-06-20T13:36:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The body of an adult man destroyed in a freezer at an apartment building in Chuo Ward, Kobe City",
       "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6F2GLFV6FUCVL03FM.html?ref=rss",
-      "published_date": "2026-06-13T14:32:07Z",
+      "url": "http://www.asahi.com/articles/ASV6N46DYV6NPIHB00FM.html?ref=rss",
+      "published_date": "2026-06-20T13:12:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Soccer World Cup: Movement to support Japanese national team spreads in Hong Kong",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149401000.html",
-      "published_date": "2026-06-13T11:48:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A series of bear sightings near residential areas in Nishinomiya, Hyogo",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149241000.html",
-      "published_date": "2026-06-13T09:38:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Komeito aims to merge with CRA before next parliamentary session",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/13/japan/komeito-cra-merger/",
-      "published_date": "2026-06-13T09:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Automatic ticket gates introduced in Tokushima Prefecture, the only prefecture in the country without automatic ticket gates",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149131000.html",
-      "published_date": "2026-06-13T05:08:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starbucks Japan releases special limited-edition summer drinks… at only 30 stores",
+      "title": "Ginza Happo: One of Tokyo’s best all-you-can-eat seafood restaurants is an extreme buffet affair",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/06/13/starbucks-japan-releases-special-limited-edition-summer-drinks-at-only-30-stores/",
-      "published_date": "2026-06-13T05:00:58Z",
+      "url": "https://soranews24.com/2026/06/20/ginza-happo-one-of-tokyos-best-all-you-can-eat-seafood-restaurants-is-an-extreme-buffet-affair/",
+      "published_date": "2026-06-20T13:00:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Japan pushes back on Trump’s anime posts",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/13/japan/trump-anime-japan-pushback/",
-      "published_date": "2026-06-13T04:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temperatures are expected to rise midsummer, and northern Japan and Kanto-Koshin are at risk of sudden changes in weather.",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149081000.html",
-      "published_date": "2026-06-13T02:51:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Formulation of implementation policy for redevelopment of metropolitan land including Shibuya “Former Children’s Castle” in Tokyo",
-      "source": "NHK World Japan",
-      "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149071000.html",
-      "published_date": "2026-06-13T02:18:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tokyo University of Agriculture professor aims to suppress cedar pollen with food additives for practical use",
+      "title": "Aichi Tech goes to Iseji for the first time in four tournaments, All-Japan University Ekiden Tokai District Selection Tournament",
       "source": "Asahi Shimbun",
-      "url": "http://www.asahi.com/articles/ASV6D2P9FV6DOXIE01MM.html?ref=rss",
-      "published_date": "2026-06-13T02:00:00Z",
+      "url": "http://www.asahi.com/articles/ASV6N4250V6NUQIP02VM.html?ref=rss",
+      "published_date": "2026-06-20T12:33:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire at elementary school in Kita Ward, Tokyo; hallways filled with smoke; teachers decide to evacuate through windows",
+      "source": "NHK World Japan",
+      "url": "http://www3.nhk.or.jp/news/html/20260620/k10015155411000.html",
+      "published_date": "2026-06-20T10:13:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan to enhance global cooperation on AI risks",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/06/20/japan-ai-global-cooperation/",
+      "published_date": "2026-06-20T08:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sociologist Kaku Sejiyama dies at age 62, popular lecture on gender theory at Tokyo University",
+      "source": "Asahi Shimbun",
+      "url": "http://www.asahi.com/articles/ASV6N2CGRV6NUCVL00BM.html?ref=rss",
+      "published_date": "2026-06-20T07:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire at an elementary school in Tokyo's Kita Ward; 11 children and others injured after fire appears to have started near the music room",
+      "source": "Asahi Shimbun",
+      "url": "http://www.asahi.com/articles/ASV6M0S17V6MUTIL00QM.html?ref=rss",
+      "published_date": "2026-06-20T07:27:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Imperial couple plant cherry tree in Netherlands",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/06/20/japan/imperial-couple-plant-tree/",
+      "published_date": "2026-06-20T07:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan’s farm minister promotes Japanese rice in France",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/06/20/japan/japan-farm-minister-rice-balls-france/",
+      "published_date": "2026-06-20T07:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan to raise visa fees for foreign nationals in first revision in 48 years",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/06/20/japan/japan-raise-visa-fees/",
+      "published_date": "2026-06-20T05:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harajuku Custom Icees come to help Tokyo’s Takeshita Street stay cute and cool this summer",
+      "source": "SoraNews24",
+      "url": "https://soranews24.com/2026/06/20/harajuku-custom-icees-come-to-help-tokyos-takeshita-street-stay-cute-and-cool-this-summer/",
+      "published_date": "2026-06-20T05:00:57Z",
       "category": "Local Events"
     }
   ]
