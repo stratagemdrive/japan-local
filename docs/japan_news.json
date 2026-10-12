@@ -1,328 +1,342 @@
 {
   "country": "japan",
-  "generated_at": "2026-10-05T01:46:22Z",
-  "story_count": 46,
+  "generated_at": "2026-10-12T02:11:54Z",
+  "story_count": 48,
   "stories": [
     {
-      "title": "China swim sensation Yu Zidi, 13, named Asian Games MVP",
+      "title": "Takaichi's call at U.N. for cutting WWII 'enemy' clause may worsen China ties",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/sports/china-swim-sensation-yu-zidi-13-says-%27i%27m-no-prodigy%27",
-      "published_date": "2026-10-04T21:39:11Z",
+      "url": "https://japantoday.com/category/politics/japan-pm%27s-call-at-u.n.-for-cutting-wwii-enemy-clause-may-roil-china-ties",
+      "published_date": "2026-10-11T21:23:03Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Mrs. Green Apple doesn’t want to play by ‘the rules’",
+      "title": "Japan cross-party group's head thanks Taiwan for support after disasters",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/update1-japan-cross-party-group%27s-head-thanks-taiwan-for-support-after-disasters",
+      "published_date": "2026-10-11T21:22:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "With bilateral trade booming, why are Japan-China tensions rising?",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/culture/2026/10/05/music/motoki-ohmori-green-apple/",
-      "published_date": "2026-10-04T20:45:00Z",
+      "url": "https://www.japantimes.co.jp/commentary/2026/10/11/japan/japan-china-tensions-rise/",
+      "published_date": "2026-10-11T05:31:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Is Trump’s war on Iran a threat to Japan?",
+      "title": "Takaichi calls China sanctions on pro-Taiwan lawmaker 'honor' in email",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/japan-pm-called-china-sanctions-on-pro-taiwan-lawmaker-honor-in-email",
+      "published_date": "2026-10-10T07:21:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "U.S. sanctions ICC after former judge wins  Nobel Peace Prize",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/commentary/2026/10/04/japan/iran-war-japan-threat/",
-      "published_date": "2026-10-04T05:04:00Z",
+      "url": "https://www.japantimes.co.jp/news/2026/10/10/world/icc-us-sanctions/",
+      "published_date": "2026-10-09T22:02:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "LDP urges tighter curbs on land purchases in sensitive areas",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/japan-ruling-ldp-urges-tighter-curbs-on-land-purchases-in-sensitive-areas",
-      "published_date": "2026-10-01T21:44:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Japan urges constructive response from Iran on navigation through straits",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/update1-japan-urges-iran%27s-constructive-response-for-navigation-through-straits",
-      "published_date": "2026-10-01T21:42:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Takaichi to lay out measures against population decline in Diet speech",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/japan-pm-takaichi-to-vow-measures-against-population-decline-in-diet-speech",
-      "published_date": "2026-09-30T21:41:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Starbucks Japan unveils new Pumpkin Soupuccino for autumn",
+      "title": "Japan lodges formal complaint with China for calling Prime Minister Sanae Takaichi Sanae Takaichi",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/01/starbucks-japan-unveils-new-pumpkin-soupuccino-for-autumn/",
-      "published_date": "2026-09-30T17:30:18Z",
+      "url": "https://soranews24.com/2026/10/10/japan-lodges-formal-complaint-with-china-for-calling-prime-minister-sanae-takaichi-sanae-takaichi/",
+      "published_date": "2026-10-09T17:30:23Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Tokyo rejects Russian claim that Japan is on path of militarization",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/tokyo-rejects-russian-claim-japan-on-path-of-militarization",
-      "published_date": "2026-09-29T07:36:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China's Wang tells ex-Japan foreign minister bilateral ties need to be normalized",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/update1-china%27s-wang-tells-ex-japan-minister-bilateral-ties-need-to-be-normalized",
-      "published_date": "2026-09-28T21:39:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Japan needs to protect its undersea lifelines",
+      "title": "LDP’s Furuya says Takaichi called China’s sanctions against him ‘great honor’",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/commentary/2026/10/04/japan/protecting-japans-undersea-lifelines/",
-      "published_date": "2026-10-04T06:51:00Z",
+      "url": "https://www.japantimes.co.jp/news/2026/10/09/japan/politics/takaichi-taiwan-sanction-furuya/",
+      "published_date": "2026-10-09T05:49:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starbucks Japan releases new Halloween Frappuccino and drinkware, but are they worth buying this year?",
+      "source": "SoraNews24",
+      "url": "https://soranews24.com/2026/10/09/starbucks-japan-releases-new-halloween-frappuccino-and-drinkware-but-are-they-worth-buying-this-year/",
+      "published_date": "2026-10-09T05:00:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Takaichi says farm minister to stay on despite controversial remarks",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/update2-japan-pm-says-farm-minister-to-stay-on-despite-controversial-remarks",
+      "published_date": "2026-10-08T21:50:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japan says China should show respect after reference to Takaichi by name only",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/update1-japan-says-china-should-show-respect-after-reference-to-pm-by-name-only",
+      "published_date": "2026-10-08T12:15:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "If anyone needs us, we’ll be in the cardboard Japanese snack house we just built [Photos]",
+      "source": "SoraNews24",
+      "url": "https://soranews24.com/2026/10/08/if-anyone-needs-us-well-be-in-the-cardboard-japanese-snack-house-we-just-built-photos/",
+      "published_date": "2026-10-08T05:00:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Takaichi pledges to find breakthrough in abduction issue with N Korea",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/japan-pm-takaichi-vows-breakthrough-in-abduction-issue-with-n.-korea",
+      "published_date": "2026-10-07T07:16:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "North Korea fires multiple ballistic missiles into Sea of Japan",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/japan/north-korea-multiple-ballistic-missiles-launch/",
+      "published_date": "2026-10-12T01:56:00Z",
       "category": "Military"
     },
     {
-      "title": "North Korea says intermediate missile’s range bests Tokyo and Seoul estimates",
+      "title": "Takaichi again in a bind as U.S. threatens to ‘end’ ICC",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/04/asia-pacific/north-korea-intermediate-missile-defenses/",
-      "published_date": "2026-10-04T00:12:00Z",
+      "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/politics/japan-us-icc-takaichi-trump/",
+      "published_date": "2026-10-11T05:38:00Z",
       "category": "Military"
     },
     {
-      "title": "North Korea fires off ballistic missile amid landmine row with South",
+      "title": "Germany eyes joining GCAP fighter jet project with U.K, Italy and Japan",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/03/japan/north-korea-missile-october-3/",
-      "published_date": "2026-10-02T21:56:00Z",
+      "url": "https://www.japantimes.co.jp/news/2026/10/10/japan/gcap-germany-join-japan/",
+      "published_date": "2026-10-10T05:02:00Z",
       "category": "Military"
     },
     {
-      "title": "Ukraine seeks Japan's cooperation on drone interception technology",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/ukraine-seeks-japan%27s-cooperation-over-anti-drone-technology",
-      "published_date": "2026-10-02T07:33:19Z",
+      "title": "Japan to launch research study on rapid-response space transport",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/09/japan/politics/koizumi-space-defense/",
+      "published_date": "2026-10-09T11:20:00Z",
       "category": "Military"
     },
     {
-      "title": "As wind power momentum slows in Japan, can tech help the industry get back on track?",
+      "title": "Okinawa resolution calls for revision of U.S. forces pact after murder",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/environment/2026/10/04/energy/offshore-wind-tech-solutions/",
-      "published_date": "2026-10-04T06:54:00Z",
-      "category": "Energy"
+      "url": "https://www.japantimes.co.jp/news/2026/10/09/japan/okinawa-assembly-resolution-us-pact/",
+      "published_date": "2026-10-09T07:05:00Z",
+      "category": "Military"
     },
     {
-      "title": "Japan adds sanctions against Russia; targets 'shadow fleet'",
+      "title": "Japanese women in 30s, 40s not as physically active: gov't survey",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/update4-japan-adds-sanctions-against-russia-amid-ukraine-war-targets-shadow-fleet",
-      "published_date": "2026-10-03T07:21:37Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Japan opposition party Komeito selects new leader after merger talks collapse",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/update1-japan-opposition-party-komeito-selects-new-leader-after-merger-talks-collapse",
-      "published_date": "2026-10-04T21:42:08Z",
+      "url": "https://japantoday.com/category/national/japanese-women-in-30s-40s-not-as-physically-active-gov%27t-survey",
+      "published_date": "2026-10-11T21:23:44Z",
       "category": "Economy"
     },
     {
-      "title": "Japan sees surge in commemorative days for product promotion, awareness",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/japan-biz-japan-sees-surge-in-commemorative-days-for-product-promotion-awareness",
-      "published_date": "2026-10-04T07:07:19Z",
+      "title": "26% in Japan see U.S. as biggest threat to world peace: survey",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/japan-survey-us-biggest-threat-to-peace/",
+      "published_date": "2026-10-11T01:31:00Z",
       "category": "Economy"
     },
     {
-      "title": "Casio collaborates with a Kyoto foil master for a luxurious one million yen G-SHOCK",
+      "title": "Cabinet OKs bill for 1st consumption tax cut in step toward Diet passage",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/update1-cabinet-oks-bill-for-1st-consumption-tax-cut-in-step-toward-diet-passage",
+      "published_date": "2026-10-10T07:20:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Japan deal drought cuts IPO fundraising to lowest in 14 years",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/09/companies/japan-ipo-fundraising-low/",
+      "published_date": "2026-10-09T02:42:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "New Sonic the Hedgehog figure costs 1 million yen, is made of Arita ware Japanese porcelain [Vid]",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/03/casio-collaborates-with-a-kyoto-foil-master-for-a-luxurious-one-million-yen-g-shock/",
-      "published_date": "2026-10-03T01:00:44Z",
+      "url": "https://soranews24.com/2026/10/08/new-sonic-the-hedgehog-figure-costs-1-million-yen-is-made-of-arita-ware-japanese-porcelain-vid/",
+      "published_date": "2026-10-08T14:00:52Z",
       "category": "Economy"
     },
     {
-      "title": "Japan jobless rate rises to 2.5% in August",
+      "title": "Trump urged Xi to mend ties with Japan, lift export controls: Hong Kong media",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/update1-japan-jobless-rate-rises-to-2.5-in-august",
-      "published_date": "2026-10-02T20:52:22Z",
+      "url": "https://japantoday.com/category/politics/trump-urged-xi-to-mend-ties-with-japan-lift-export-controls-h.k.-media",
+      "published_date": "2026-10-08T07:33:42Z",
       "category": "Economy"
     },
     {
-      "title": "Takaichi told during Trump talks that weak yen was hurting U.S. trade",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/politics/takaichi-trump-talks-weak-yen/",
-      "published_date": "2026-10-02T09:05:00Z",
+      "title": "Japan bankruptcies hit 13-year high in FY2026 first half",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/business/japan-bankruptcies-hit-13-year-high-in-fy-2026-first-half-as-costs-rise",
+      "published_date": "2026-10-08T07:33:13Z",
       "category": "Economy"
     },
     {
-      "title": "Tokai Kisen subject of Japan’s first-ever ship suspension order",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/tokai-kisen-suspension-order/",
-      "published_date": "2026-10-02T09:00:00Z",
+      "title": "August real wages in Japan rise for 8th month on pay growth, slower inflation",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/business/update2-japan-aug.-real-wages-rise-for-8th-month-on-pay-growth-slower-inflation",
+      "published_date": "2026-10-07T21:37:33Z",
       "category": "Economy"
     },
     {
-      "title": "Tokyo inflation hits 2.7% in September as some subsidies come to an end",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/02/economy/tokyo-inflation-september/",
-      "published_date": "2026-10-02T07:11:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Japanese Shinto ceremonial sand-digging in London celebrates start of British Library expansion",
+      "title": "Tokyo train station will play Godzilla theme song as new departure melody",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/02/japanese-shinto-ceremony-held-in-london-to-celebrate-start-of-british-library-expansion/",
-      "published_date": "2026-10-02T04:00:17Z",
+      "url": "https://soranews24.com/2026/10/08/tokyo-train-station-will-play-godzilla-theme-song-as-new-departure-melody/",
+      "published_date": "2026-10-07T17:30:55Z",
       "category": "Economy"
     },
     {
-      "title": "Survey by Japan's central bank shows business sentiments up for sixth straight month",
+      "title": "7-Eleven exits India amid mounting competition",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/survey-by-japan%27s-central-bank-shows-business-sentiments-are-up-for-sixth-straight-month",
-      "published_date": "2026-10-01T21:47:42Z",
+      "url": "https://japantoday.com/category/business/7-eleven-exits-india-amid-mounting-competition",
+      "published_date": "2026-10-06T21:48:47Z",
       "category": "Economy"
     },
     {
-      "title": "Japan’s first-ever conveyor-belt Sushi Bus announces Tokyo tour start date, reservations now open",
-      "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/01/japans-first-ever-conveyor-belt-sushi-bus-announces-tokyo-tour-start-date-reservations-now-open/",
-      "published_date": "2026-10-01T03:00:35Z",
+      "title": "Japan decision on lifting ban on U.S. fresh potato imports may come earlier",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/business/japan-decision-on-lifting-ban-on-u.s.-fresh-potato-imports-may-come-earlier",
+      "published_date": "2026-10-05T21:51:04Z",
       "category": "Economy"
     },
     {
-      "title": "Toys R Us eyes exiting Japan, selling business to Don Quijote operator",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/toys-r-us-eyes-exiting-japan-selling-business-to-don-quijote-operator",
-      "published_date": "2026-09-29T21:45:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Flu spreads in quake-hit Kumamoto as Japan sees early outbreak",
+      "title": "Anti-sexual assault certification set for Japan’s cram schools",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/05/japan/japan-flu-spread-quake-hit-kumamoto/",
-      "published_date": "2026-10-05T00:54:00Z",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/japan/society/cram-schools-anti-sexual-assault-certification/",
+      "published_date": "2026-10-12T02:07:00Z",
       "category": "Local Events"
     },
     {
-      "title": "79-year-old woman arrested for kicking supermarket employee in the stomach",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/crime/79-year-old-woman-arrested-for-kicking-supermarket-employee-in-the-stomach",
-      "published_date": "2026-10-04T21:44:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan remains 12th in global innovation ranking",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/japan-remains-12th-in-global-innovation-ranking-trails-south-korea-china",
-      "published_date": "2026-10-04T21:41:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alcaraz through to Japan Open semifinals; Fils crashes out",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/sports/alcaraz-through-to-japan-open-semis-after-shapovalov-injury",
-      "published_date": "2026-10-04T21:39:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World records prove Asian Games were a hit, says top official",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/sports/world-records-prove-asian-games-were-a-hit-says-top-official",
-      "published_date": "2026-10-04T21:39:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asian Games close in Japan and head to Qatar in 2030",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/sports/the-asian-games-with-more-athletes-than-the-olympics-close-in-japan-and-head-to-qatar-in-2030",
-      "published_date": "2026-10-04T21:39:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Act before it's too late': Tokyo residents fight for more trees",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/national/%27act-before-it%27s-too-late%27-tokyo-residents-fight-for-more-trees",
-      "published_date": "2026-10-04T21:37:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asian Games end",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/picture-of-the-day/asian-games-end",
-      "published_date": "2026-10-04T21:21:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan changes the language around parent-child deaths",
+      "title": "Sports club affiliation influences physical strength, survey shows",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/life/2026/10/05/language/abuse-language-japan-change/",
-      "published_date": "2026-10-04T17:30:00Z",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/japan/society/sports-clubs-physical-strength/",
+      "published_date": "2026-10-12T02:03:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Japanese food hack says to soak your grapes in carbonated water, but is the fizz worth the buzz?",
+      "title": "Man stabbed in the back at Yokohama bar; assailant flees",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/crime/man-stabbed-in-the-back-at-yokohama-bar-assailant-flees",
+      "published_date": "2026-10-11T21:27:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KDDI, Japan Post eye post offices nationwide as drone hubs",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/business/kddi-japan-post-eye-post-offices-nationwide-as-drone-hubs",
+      "published_date": "2026-10-11T21:25:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japanese companies give skin-care lessons to children",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/business/japan-biz-japanese-makers-give-skin-care-lessons-to-children",
+      "published_date": "2026-10-11T21:24:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Everyone is angry': Okinawans fearful and frustrated after killing",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/national/%27everyone-is-angry%27-okinawans-fearful-and-frustrated-after-killing",
+      "published_date": "2026-10-11T21:23:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brennan keeps his cool in Japan for third PGA Tour victory",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/sports/brennan-holds-off-schauffele-for-pga-tour-win-in-japan",
+      "published_date": "2026-10-11T21:21:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan stands by rule of law as U.S. slaps sanctions against ICC",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/japan-stands-by-rule-of-law-as-u.s.-slaps-sanctions-against-icc",
+      "published_date": "2026-10-11T12:50:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The do’s and don’ts when applying for permanent residency in Japan",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/community/2026/10/11/how-tos/permanent-residency-application-dos-donts/",
+      "published_date": "2026-10-11T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netflix vies to be a cut above in TV production",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/culture/2026/10/11/tv-streaming/netflix-strategy-plastic-beauty/",
+      "published_date": "2026-10-11T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Free-flowing cocktails, natural onsen water, and custom pillows make this Osaka hotel a steal",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/05/japanese-food-hack-says-to-soak-your-grapes-in-carbonated-water-but-is-the-fizz-worth-the-buzz/",
-      "published_date": "2026-10-04T16:00:40Z",
+      "url": "https://soranews24.com/2026/10/11/free-flowing-cocktails-natural-onsen-water-and-custom-pillows-make-this-osaka-hotel-a-steal/",
+      "published_date": "2026-10-11T05:00:03Z",
       "category": "Local Events"
     },
     {
-      "title": "One of Japan’s best convenience store egg sandwiches is one you won’t find at the big three chains",
+      "title": "Newspaper subscription rate in Japan falls below 50% for first time",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/media/newspaper-subscriptions-below-50-percent/",
+      "published_date": "2026-10-11T03:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rubio cites ‘necessity’ of U.S. sanctions on ICC in call with Japanese counterpart",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/politics/rubio-motegi-icc-sanctions/",
+      "published_date": "2026-10-11T01:41:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Final Fantasy Fat Chocobo Curry coming to fill up fans, even if they can’t attend Fan Festival",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/04/one-of-japans-best-convenience-store-egg-sandwiches-is-one-you-wont-find-at-the-big-three-chains/",
-      "published_date": "2026-10-04T13:00:26Z",
+      "url": "https://soranews24.com/2026/10/11/final-fantasy-fat-chocobo-curry-coming-to-fill-up-fans-even-if-they-cant-attend-fan-festival/",
+      "published_date": "2026-10-11T01:00:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Amid shifting attitudes toward immigrants, disinformation unsettles Vietnamese in Japan",
+      "title": "Two die and 16 hurt in Osaka <i>danjiri</i> float festival accidents",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/community/2026/10/04/issues/vietnamese-community-disinformation/",
-      "published_date": "2026-10-04T09:00:00Z",
+      "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/japan-float-festival-deaths/",
+      "published_date": "2026-10-11T00:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Convenience stores beef up apparel to attract young shoppers",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/04/companies/convenience-stores-apparel-young-shoppers/",
-      "published_date": "2026-10-04T08:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olympic Council of Asia touts Asian Games as success despite logistical issues",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/sports/2026/10/04/asian-games/asian-games-success-oca/",
-      "published_date": "2026-10-04T07:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Chaotic' Asian Games threaten Japan hopes of hosting Olympics again",
+      "title": "Suzuki to launch ultracompact EV model in intensifying race in Japan",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/sports/%27chaotic%27-asian-games-threaten-japan-hopes-of-hosting-olympics-again",
-      "published_date": "2026-10-04T07:05:56Z",
+      "url": "https://japantoday.com/category/business/suzuki-to-launch-ultracompact-ev-model-in-intensifying-race-in-japan",
+      "published_date": "2026-10-10T21:37:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Komeito launches new leadership team under Okamoto",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/04/japan/politics/komeito-new-leadership-team/",
-      "published_date": "2026-10-04T04:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japanese anime event opens in New Delhi, attracting India’s youth",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/04/japan/anime-event-new-delhi/",
-      "published_date": "2026-10-04T04:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan delivers ‘strong protest’ to U.S. after marine arrested in Okinawa robbery-murder",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/04/japan/crime-legal/okinawa-marine-arrest-robbery-murder/",
-      "published_date": "2026-10-04T03:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foreign tourist numbers drop in Osaka, despite record-setting highs from U.S. and Korea",
+      "title": "Japanese milk carton cakes are a genius idea that the world needs to know about",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/04/foreign-tourist-numbers-drop-in-osaka-despite-record-setting-highs-from-u-s-and-korea/",
-      "published_date": "2026-10-03T16:00:50Z",
+      "url": "https://soranews24.com/2026/10/10/japanese-milk-carton-cakes-are-a-genius-idea-that-the-world-needs-to-know-about/",
+      "published_date": "2026-10-10T13:00:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Starbucks Japan says sayonara to the Filone for new sandwiches and a Pumpkin Soupuccino",
+      "title": "Giant wagashi cushions will turn your home sweet home into home sweet Japanese sweets home",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/03/starbucks-japan-says-sayonara-to-the-filone-for-new-sandwiches-and-a-pumpkin-soupuccino/",
-      "published_date": "2026-10-03T13:00:20Z",
+      "url": "https://soranews24.com/2026/10/10/giant-wagashi-cushions-will-turn-your-home-sweet-home-into-home-sweet-japanese-sweets-home/",
+      "published_date": "2026-10-10T05:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More Japanese firms hit by large-scale data breaches",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/10/tech/japanese-firms-data-breaches/",
+      "published_date": "2026-10-10T01:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "7-Eleven Japan now has Milk Miso Curry Ramen, but is that too much for one cup? [Taste test]",
+      "source": "SoraNews24",
+      "url": "https://soranews24.com/2026/10/10/7-eleven-japan-now-has-milk-miso-curry-ramen-but-is-that-too-much-for-one-cup-taste-test/",
+      "published_date": "2026-10-10T01:00:30Z",
       "category": "Local Events"
     }
   ]
