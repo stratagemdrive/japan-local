@@ -1,356 +1,363 @@
 {
   "country": "japan",
-  "generated_at": "2026-10-26T17:15:16Z",
-  "story_count": 50,
+  "generated_at": "2026-11-02T20:43:16Z",
+  "story_count": 51,
   "stories": [
     {
-      "title": "Former Prime Minister Yasuo Fukuda dies at 90",
+      "title": "Japan’s mini Shikoku Pilgrimage walking tour left us feeling immensely satisfied",
+      "source": "SoraNews24",
+      "url": "https://soranews24.com/2026/11/02/japans-mini-shikoku-pilgrimage-walking-tour-left-us-feeling-immensely-satisfied/",
+      "published_date": "2026-11-02T14:00:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japan sticker craze meets politics as Takaichi-themed sets prove hit",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/japan-sticker-craze-meets-politics-as-pm-takaichi-themed-sets-prove-hit",
+      "published_date": "2026-11-02T07:12:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/indo-pacific-quad-ministers-work-on-supply-chains-denounce-arbitrary-export-restrictions2",
+      "published_date": "2026-11-02T06:03:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japan ready to respond to disorderly movements in FX market, Katayama says",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/yasuo-fukuda-obituary/",
-      "published_date": "2026-10-26T09:03:00Z",
+      "url": "https://www.japantimes.co.jp/business/2026/11/02/markets/katayama-ready-market-election/",
+      "published_date": "2026-11-02T03:04:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Former PM Yasuo Fukuda dies at 90",
+      "title": "Shnaider beats Fernandez to win Tokyo title",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/former-japan-pm-yasuo-fukuda-dies-at-90-party-official",
-      "published_date": "2026-10-26T07:33:44Z",
+      "url": "https://japantoday.com/category/sports/shnaider-beats-fernandez-to-win-tokyo-title",
+      "published_date": "2026-11-01T21:42:28Z",
       "category": "Diplomacy"
     },
     {
-      "title": "No sign of progress in talks over detention of Japanese journalist in Russia",
+      "title": "Japan demands release of national in meeting with Russia’s Lavrov",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/japanese-journalist-detained-russia/",
-      "published_date": "2026-10-26T07:15:00Z",
+      "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/japan-russia-g20-meeting/",
+      "published_date": "2026-11-01T03:43:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Senior U.S. Democrat says midterm win would give party stronger voice in shaping Asia policy",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/asia-pacific/us-ami-bera-japan-asia-taiwan/",
-      "published_date": "2026-10-26T02:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Katsuragawa hails 'greatest moment' with South Korea win",
+      "title": "Japan demands release of national in meeting with Russia's Lavrov",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/sports/katsuragawa-hails-%27greatest-moment%27-with-south-korea-win",
-      "published_date": "2026-10-25T21:23:56Z",
+      "url": "https://japantoday.com/category/politics/Japan-demands-release-of-national-in-meeting-with-Lavrov",
+      "published_date": "2026-10-31T07:24:56Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Russia likely to harden posture on Japan at least until Ukraine war ends",
+      "title": "Japan, Germany leaders target closer ties on critical minerals",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/focus-russia-likely-to-harden-posture-on-japan-at-least-until-ukraine-war-ends",
-      "published_date": "2026-10-25T10:25:13Z",
+      "url": "https://japantoday.com/category/politics/japan-germany-leaders-target-closer-ties-on-critical-minerals",
+      "published_date": "2026-10-29T07:36:34Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Takaichi instructs industry minister to review gasoline subsidies",
+      "title": "China's Xi calls on Japan to protect political foundation of ties",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/update1-japan-pm-says-will-instruct-industry-minister-to-examine-gasoline-subsidies",
-      "published_date": "2026-10-24T10:01:48Z",
+      "url": "https://japantoday.com/category/politics/china%27s-xi-calls-on-japan-to-protect-political-foundation-of-ties",
+      "published_date": "2026-10-28T07:37:12Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Senshu Ikeda and Shiga to merge in latest Japan consolidation",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/24/shiga-bank-senshu-ikeda-merger-talks/",
-      "published_date": "2026-10-24T08:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Defense, debt, diplomacy: Takaichi's first year as Japan PM",
+      "title": "Japan eyes ¥1 tril private investment into Bangladesh over 5 years",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/defence-debt-diplomacy-takaichi%27s-first-year-as-japan-pm",
-      "published_date": "2026-10-21T10:02:37Z",
+      "url": "https://japantoday.com/category/politics/update1-japan-eyes-1-tril.-yen-private-investment-into-bangladesh-over-5-yrs",
+      "published_date": "2026-10-27T21:44:38Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Japan seeks territorial solution with Russia 70 years after joint declaration",
+      "title": "Koizumi urges U.S. to tighten discipline after another Marine arrested",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/japan-seeks-territorial-solution-with-russia-70-yrs-after-joint-declaration",
-      "published_date": "2026-10-20T21:54:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Security concerns flagged within Japanese firm GMO before breach: CEO",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/tech/update1-security-concerns-flagged-within-japan-firm-gmo-before-breach-ceo",
-      "published_date": "2026-10-26T10:14:25Z",
+      "url": "https://japantoday.com/category/crime/japan-urges-u.s.-to-tighten-discipline-after-another-u.s.-marine-arrested",
+      "published_date": "2026-11-02T10:23:06Z",
       "category": "Military"
     },
     {
-      "title": "Japan deploys long-range missile launcher during major drill with U.S.",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/national/japan-deploys-long-range-missile-launcher-during-major-drill-with-us",
-      "published_date": "2026-10-26T07:34:59Z",
+      "title": "Japan weighs $500 billion defense spending plan, sources say",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/politics/defense-spending-double-takaichi/",
+      "published_date": "2026-11-02T05:13:00Z",
       "category": "Military"
     },
     {
-      "title": "The key to Japan’s growth strategy: ‘proactive’ economic security",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/commentary/2026/10/26/japan/japan-proactive-economic-security/",
-      "published_date": "2026-10-26T07:09:00Z",
+      "title": "Shoplifting prevention guard arrested for shoplifting boot from store he was guarding",
+      "source": "SoraNews24",
+      "url": "https://soranews24.com/2026/11/02/shoplifting-prevention-guard-arrested-for-shoplifting-boot-from-store-he-was-guarding/",
+      "published_date": "2026-11-02T02:00:19Z",
       "category": "Military"
     },
     {
-      "title": "U.S. military bans Chinese-made BYD cars from key air base in Okinawa",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/byd-us-military-kadena-base-ban/",
-      "published_date": "2026-10-26T05:15:00Z",
+      "title": "Defense Ministry aims to build capability to rapidly launch rockets",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/japan-defense-ministry-aims-to-build-capability-to-rapidly-launch-rockets",
+      "published_date": "2026-11-01T21:43:26Z",
       "category": "Military"
     },
     {
-      "title": "Japan navigates varying agendas in Southeast Asia security cooperation push",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/focus-japan-navigates-varying-agendas-in-southeast-asia-security-cooperation-push",
-      "published_date": "2026-10-25T21:21:53Z",
+      "title": "U.S. Marine arrested in Okinawa for driving under influence",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/crime-legal/us-marine-okinawa-arrest-drunken-driving/",
+      "published_date": "2026-11-01T03:15:00Z",
       "category": "Military"
     },
     {
-      "title": "Gov't submits bill to tighten land acquisition in sensitive areas",
+      "title": "U.S., S Korea, Japan reaffirm commitment to 'complete' N Korea denuclearization",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/japan-cabinet-oks-tougher-measures-on-land-acquisition-in-sensitive-areas",
-      "published_date": "2026-10-23T20:57:11Z",
+      "url": "https://japantoday.com/category/politics/us-s.korea-japan-vow-%27complete%27-n.korea-denuclearization",
+      "published_date": "2026-10-31T21:01:04Z",
       "category": "Military"
     },
     {
-      "title": "Koizumi eyes meeting with Hegseth in Philippines next week",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/Koizumi-arranging-talks-with-Hegseth-next-week",
-      "published_date": "2026-10-23T20:03:20Z",
+      "title": "Can Japan’s Self-Defense Forces legally open fire on a zombie horde?",
+      "source": "SoraNews24",
+      "url": "https://soranews24.com/2026/10/31/can-japans-self-defense-forces-legally-open-fire-on-a-zombie-horde/",
+      "published_date": "2026-10-31T07:00:52Z",
       "category": "Military"
     },
     {
-      "title": "Record-high applications filed for defense tech research funding",
+      "title": "U.S. and Japan agree to establish missile-production facility",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/politics/Record-high-applications-filed-for-defense-tech-research-funding",
-      "published_date": "2026-10-20T21:38:54Z",
+      "url": "https://japantoday.com/category/politics/U.S.-and-Japan-agree-to-establish-missile-production-facility",
+      "published_date": "2026-10-29T10:05:09Z",
       "category": "Military"
     },
     {
-      "title": "Yen becoming more favorable hedge against AI market shock, says Goldman Sachs",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/26/markets/yen-hedge-against-ai-market-shock/",
-      "published_date": "2026-10-26T02:34:00Z",
-      "category": "Economy"
+      "title": "Japan, U.S. defense chiefs agree to boost cooperation against cyberattacks",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/update2-japan-u.s.-defense-chiefs-agree-to-boost-cooperation-against-cyberattacks",
+      "published_date": "2026-10-29T07:36:43Z",
+      "category": "Military"
     },
     {
-      "title": "Grabbing a bargain: Japan’s claw machines cash in on inflation",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/26/economy/japan-claw-machines-daily-goods-inflation/",
-      "published_date": "2026-10-26T02:25:00Z",
-      "category": "Economy"
+      "title": "Germany weighs role in GCAP fighter jet program, says Merz",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/politics/germany-weighs-role-in-gcap-fighter-jet-program-says-merz-on-japan-visit",
+      "published_date": "2026-10-28T21:49:06Z",
+      "category": "Military"
     },
     {
-      "title": "This Tokyo snack shop can send your taste buds on a trip around Japan for just 1,000 yen",
+      "title": "Shinkansen online ticketing service reports customer data leak",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/26/this-tokyo-snack-shop-can-send-your-taste-buds-on-a-trip-around-japan-for-just-1000-yen/",
-      "published_date": "2026-10-26T01:00:30Z",
-      "category": "Economy"
+      "url": "https://soranews24.com/2026/10/28/shinkansen-online-ticketing-service-reports-customer-data-leak/",
+      "published_date": "2026-10-28T14:00:01Z",
+      "category": "Energy"
     },
     {
-      "title": "Chainsaw robots helping keep trains running safely in east Japan [Video]",
+      "title": "Japan ends tax-free shopping system for foreign tourists, new refund request system now in effect",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/25/chainsaw-robots-helping-keep-trains-running-safely-in-east-japan-video/",
-      "published_date": "2026-10-25T13:00:41Z",
+      "url": "https://soranews24.com/2026/11/03/japan-ends-tax-free-shopping-system-for-foreign-tourists-new-refund-request-system-now-in-effect/",
+      "published_date": "2026-11-02T16:00:49Z",
       "category": "Economy"
     },
     {
-      "title": "Brewers in cartel probe all held beer prices steady after 2023 tax cut",
+      "title": "BOJ signals low hopes for consumer spending as population falls",
       "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/25/japan-cartel-suspected-brewers/",
-      "published_date": "2026-10-25T02:24:00Z",
+      "url": "https://www.japantimes.co.jp/business/2026/11/02/economy/bank-of-japan-quarterly-outlook/",
+      "published_date": "2026-11-02T08:38:00Z",
       "category": "Economy"
     },
     {
-      "title": "Japan to overhaul tax-free shopping for foreign visitors to curb resale",
+      "title": "Luxury watch stolen from Tokyo store returned via courier, with note saying ‘I am sorry’",
       "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/update1-japan-to-overhaul-tax-free-shopping-for-foreign-visitors-to-curb-resale",
-      "published_date": "2026-10-23T20:53:35Z",
+      "url": "https://japantoday.com/category/crime/luxury-watch-stolen-from-tokyo-store-returned-via-courier-with-note-saying-%E2%80%98i-am-sorry%E2%80%99",
+      "published_date": "2026-11-02T07:12:35Z",
       "category": "Economy"
     },
     {
-      "title": "Super Mario creator Shigeru Miyamoto to receive Order of Culture from Japanese emperor",
+      "title": "Japan's anime market tops ¥4 tril for 1st time",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/business/japan%27s-anime-market-tops-4-tril.-yen-for-1st-time",
+      "published_date": "2026-11-02T07:12:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mitsui Fudosan hopes to book gains and make mark with British Library project",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/02/companies/mitsui-fudosan-london/",
+      "published_date": "2026-11-02T06:03:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Man arrested for headbutting wife in the face, giving her a split lip",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/crime/man-arrested-for-headbutting-wife-in-the-face-giving-her-a-split-lip",
+      "published_date": "2026-11-01T21:46:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/gmo-ceo-kumagai-cyberattack-presser/",
+      "published_date": "2026-11-01T01:34:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opposition demands Takaichi’s attendance as debate continues over tax bill",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/takaichi-tax-cut-bill-deliberation/",
+      "published_date": "2026-11-01T00:50:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "BOJ says 2% inflation target generally achieved, maintains policy rate",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/business/update2-boj-says-2-inflation-target-generally-achieved-maintains-policy-rate",
+      "published_date": "2026-10-30T20:48:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "ANA Holdings' April-Sept net profit falls 11.8% on higher fuel costs",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/business/update1-ana-holdings%27-april-sept.-net-profit-falls-11.8-on-higher-fuel-costs",
+      "published_date": "2026-10-29T21:50:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Japan’s new disaster agency calls on public to prepare for disasters",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/new-disaster-agency-public-prepare/",
+      "published_date": "2026-11-02T10:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oji makes inroads on licorice cultivation in Japan",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/02/companies/hokkaido-licorice-production/",
+      "published_date": "2026-11-02T09:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stolen luxury watch returned to Tokyo store via courier with apology note",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/crime-legal/stolen-luxury-watch-returned/",
+      "published_date": "2026-11-02T08:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ishiba underscores importance of National Disaster Management Agency",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/politics/ishiba-disaster-management/",
+      "published_date": "2026-11-02T07:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japanese national confirmed dead in Spanish train crash",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/spain-train-crash-japanese/",
+      "published_date": "2026-11-02T07:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One Japanese confirmed dead; one unaccounted for in Spain train crash",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/national/urgent-1-japanese-confirmed-dead-in-spain-train-crash-gov%27t-official",
+      "published_date": "2026-11-02T07:11:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan extends transition bond push despite fossil-fuel reliance",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/02/japan-climate-transition-bond/",
+      "published_date": "2026-11-02T07:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan Post starts sales of 2027 New Year’s cards",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/02/companies/japan-post-2027-new-year-card/",
+      "published_date": "2026-11-02T05:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A quadrennial Tokyo festival returns to a changed Japan",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/life/2026/11/02/travel/nezu-shrine-festival-tokyo-overtourism-culture/",
+      "published_date": "2026-11-02T05:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Phone booth set up in Hokkaido offers a place to speak to lost loved ones",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/society/hokkaido-shiretoko-boat-accident-memorial/",
+      "published_date": "2026-11-02T05:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan-supported Grand Egyptian Museum marks first year of operations",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/society/grand-egyptian-museum-anniversary/",
+      "published_date": "2026-11-02T02:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Honma, astronomer behind black hole image, named for autumn honor",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/autumn-honor/",
+      "published_date": "2026-11-02T02:08:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mao Shimada wins Skate Canada International",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/sports/mao-shimada-of-japan-wins-skate-canada-international",
+      "published_date": "2026-11-02T00:43:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "As subscription numbers fall, Wowow bets on streaming venture with Docomo",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/02/companies/wowwow-docomo-streaming-venture/",
+      "published_date": "2026-11-02T00:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OTC drugs not subject to sales restrictions likely to be commonly abused",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/national/otc-drugs-not-subject-to-sales-restrictions-likely-to-be-commonly-abused",
+      "published_date": "2026-11-01T21:43:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yamaha pulls out of next weekend's MotoGP race in Qatar over safety concerns in the Middle East",
+      "source": "Japan Today",
+      "url": "https://japantoday.com/category/sports/yamaha-pulls-out-of-next-weekend%27s-motogp-race-in-qatar-over-safety-concerns-in-the-middle-east",
+      "published_date": "2026-11-01T21:42:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pokémon guitars from Fender Japan come with 8-bit sound mode for covering retro game music [Vid]",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/24/super-mario-creator-shigeru-miyamoto-to-receive-order-of-culture-from-japanese-emperor/",
-      "published_date": "2026-10-23T16:00:25Z",
-      "category": "Economy"
+      "url": "https://soranews24.com/2026/11/02/pokemon-guitars-from-fender-japan-come-with-8-bit-sound-mode-for-covering-retro-game-music-vid/",
+      "published_date": "2026-11-01T16:00:09Z",
+      "category": "Local Events"
     },
     {
-      "title": "Japan's largest labor union to seek around 6% pay hike next spring",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/update1-japan%27s-largest-labor-union-to-seek-around-6-pay-hike-next-spring",
-      "published_date": "2026-10-23T07:35:44Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pokémon Company announces first-ever permanent Pokémon store to open outside Asia",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/pokemon-company-announces-first-ever-permanent-pokemon-store-to-open-outside-asia",
-      "published_date": "2026-10-22T21:42:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Trial of terminally ill cancer patient who found 22 million yen on the street and kept it ends",
+      "title": "This semi-secret, totally free footbath in downtown Tokyo is completely awesome",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/22/trial-of-terminally-ill-cancer-patient-who-found-22-million-yen-on-the-street-and-kept-it-ends/",
-      "published_date": "2026-10-22T14:00:24Z",
-      "category": "Economy"
+      "url": "https://soranews24.com/2026/11/01/this-semi-secret-totally-free-footbath-in-downtown-tokyo-is-completely-awesome/",
+      "published_date": "2026-11-01T09:00:40Z",
+      "category": "Local Events"
     },
     {
-      "title": "Japan records ¥2.81 tril trade deficit for first fiscal half",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/Japan-records-%C2%A52.81-tril-trade-deficit-for-first-fiscal-half",
-      "published_date": "2026-10-22T07:33:39Z",
-      "category": "Economy"
+      "title": "Japan’s new disaster agency aims to streamline response, but challenges remain",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/disaster-prevention-agency/",
+      "published_date": "2026-11-01T02:45:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tokyo area condo prices top ¥100 mil in April-Sept for 1st time",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/business/tokyo-area-condo-prices-top-100-mil.-yen-in-april-sept.-for-1st-time",
-      "published_date": "2026-10-21T07:39:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Beloved, 100-year-old Tokyo public bathhouse Sengenyu is about to get a second life this December",
+      "title": "Japan’s TeamLab digital art group is opening a permanent museum in America",
       "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/27/beloved-100-year-old-tokyo-public-bathhouse-sengenyu-is-about-to-get-a-second-life-this-december/",
-      "published_date": "2026-10-26T15:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fishing information website for Susaki, Japan, hit by data leak, all 3 users affected",
-      "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/26/fishing-information-website-for-susaki-japan-hit-by-data-leak-all-3-users-affected/",
-      "published_date": "2026-10-26T13:00:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meiji Yasuda to buy Man Group stake in asset management push",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/26/meiji-yasuda-man-group/",
-      "published_date": "2026-10-26T11:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan’s shipbuilders ramping up investment to double output",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/26/companies/japan-shipbuilding-investments-up/",
-      "published_date": "2026-10-26T08:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "70% in Japan want to shelter at home after disasters, survey finds",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/disaster-shelter-preference-survey/",
-      "published_date": "2026-10-26T08:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. Marine indicted over robbery, murder of woman in Okinawa",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/crime/update2-u.s.-marine-indicted-over-robbery-murder-of-woman-in-okinawa",
-      "published_date": "2026-10-26T07:34:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chainsaw robots helping keep trains running safely in east Japan",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/national/chainsaw-robots-helping-keep-trains-running-safely-in-east-japan",
-      "published_date": "2026-10-26T07:33:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese carmakers overtake Japan in Europe for first time",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/26/companies/china-carmakers-overtake-japan-europe-market/",
-      "published_date": "2026-10-26T07:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Premium tour plan to Okinawa sanctuary shelved following local opposition",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/okinawa-sanctuary-tour-shelved/",
-      "published_date": "2026-10-26T07:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hawks show what a modern baseball dynasty looks like",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/sports/2026/10/26/baseball/japanese-baseball/softbank-hawks-modern-dynasty/",
-      "published_date": "2026-10-26T06:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sapporo mayoral race takes shape with Olympics and foreign population in focus",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/sapporo-mayor-election/",
-      "published_date": "2026-10-26T05:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is this crazy-looking home sauna just what our busy daddy reporter needs in his life?",
-      "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/26/is-this-crazy-looking-home-sauna-just-what-our-busy-daddy-reporter-needs-in-his-life/",
-      "published_date": "2026-10-26T05:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yuri Yoshida rallies for first victory on LPGA Tour",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/sports/2026/10/26/more-sports/yoshida-first-lpga-tour-win/",
-      "published_date": "2026-10-26T03:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One year after split with LDP, Komeito seeks fresh direction with new leader",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/komeito-okamoto/",
-      "published_date": "2026-10-26T03:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 of the nicest celebrities we’ve met in Japan over the years",
-      "source": "SoraNews24",
-      "url": "https://soranews24.com/2026/10/26/10-of-the-nicest-celebrities-weve-met-in-japan-over-the-years/",
-      "published_date": "2026-10-26T03:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minors detained over ‘Shorinji racing’ pranks in Osaka and Hyogo",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/crime-legal/children-arrested-shorinji-racing/",
-      "published_date": "2026-10-26T02:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "93-year-old woman helps set trap for scam artist half her age",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/crime/93-year-old-woman-helps-set-trap-for-scam-artist-half-her-age",
-      "published_date": "2026-10-25T21:24:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Siniakova wins Japan Open, beating Ashlyn Krueger 6-1, 6-0",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/sports/katerina-siniakova-wins-the-japan-open-beating-ashlyn-kreuger-6-1-6-0",
-      "published_date": "2026-10-25T21:23:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hawks beat BayStars 4-3 in 10 innings to take 2-0 Japan Series lead",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/sports/update1-baseball-hawks-beat-baystars-4-3-in-10-innings-lead-japan-series-2-0",
-      "published_date": "2026-10-25T21:23:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Osaka says she could quit tennis if her daughter asks her to",
-      "source": "Japan Today",
-      "url": "https://japantoday.com/category/sports/naomi-osaka-could-quit-tennis-if-daughter-asks-her-to",
-      "published_date": "2026-10-25T21:22:54Z",
+      "url": "https://soranews24.com/2026/11/01/japans-teamlab-digital-art-group-is-opening-a-permanent-museum-in-america/",
+      "published_date": "2026-10-31T23:30:58Z",
       "category": "Local Events"
     }
   ]
